@@ -1,4 +1,4 @@
-# Sharks-mini-project
+<h1 style='background:#0077BE; border:0; color:white; padding-top:15px; padding-bottom:15px; text-align: center;'>Sharks Mini Project</h1> 
 
 ![](img/shark.png)
 
